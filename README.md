@@ -14,7 +14,7 @@
 
 <p align="center"><a href="#安装">安装</a> | <a href="#快速开始">快速开始</a> | <a href="https://github.com/neucn/ipgw/issues/new">反馈</a></p>
 
-# 安装
+# Installation
 
 ## Windows
 
